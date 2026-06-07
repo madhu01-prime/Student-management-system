@@ -25,9 +25,10 @@ A GUI-based Student Management System developed using Python, Tkinter, Pandas, a
 
 This project helps manage student records efficiently through a user-friendly graphical interface. It supports complete CRUD operations and stores data in Excel format.
 
-## 📷 Project Screenshot
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0c4fed51-480c-4059-8240-9cff11ff4243" />
 
-(Add your project screenshot here)
+
+
 
 ## 👨‍💻 Author
 
